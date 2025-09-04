@@ -15,9 +15,9 @@
             android:id="@+id/productId"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/kodchasan"
             android:text="Product Id : "
-            android:textSize="20sp"
-            android:fontFamily="@font/kodchasan"/>
+            android:textSize="20sp" />
 
         <TextView
             android:id="@+id/productQuantity"
